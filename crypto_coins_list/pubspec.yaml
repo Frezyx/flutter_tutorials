@@ -21,6 +21,7 @@ dependencies:
   talker_bloc_logger: ^1.1.0
   json_annotation: ^4.8.0
   hive_flutter: ^1.1.0
+  auto_route: ^6.1.0
 
 dev_dependencies:
   flutter_test:
@@ -28,6 +29,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   json_serializable: ^6.6.1
   hive_generator: ^2.0.0
+  auto_route_generator: ^6.1.0
   build_runner:
 
 flutter:
