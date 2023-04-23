@@ -1,4 +1,4 @@
-<h1 align="center">Frezycode Flutter Tutorials </h1>
+<h1 align="center">Flutter Tutorials </h1>
 <h3 align="center">
 All source code from <a href="https://www.youtube.com/playlist?list=PLtUuja72DaLIiIYLQP7rUjxItkDjHcSMw">frezycode</a> youtube channel tutorials
 </h3>
