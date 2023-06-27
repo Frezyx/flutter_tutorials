@@ -1,0 +1,5 @@
+{
+  "hello": "Привет!",
+  "goodbye": "Пока",
+  "youReceiveNBouns": "Вы получили бонус {bonus} баллов"
+}
