@@ -13,7 +13,7 @@
 <a href="https://t.me/frezycode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 <p align="center">
-Плейлист курса можно бесплатно посомтреть на <a href="https://www.youtube.com/watch?v=X4NJJF48o6c&list=PLtUuja72DaLLAo63Zsn1UsLONDafJKWrl&ab_channel=%D0%A1%D1%82%D0%B0%D1%81%D0%98%D0%BB%D1%8C%D0%B8%D0%BD">youtube</a>
+Плейлист курса можно бесплатно посмотреть на <a href="https://www.youtube.com/watch?v=X4NJJF48o6c&list=PLtUuja72DaLLAo63Zsn1UsLONDafJKWrl&ab_channel=%D0%A1%D1%82%D0%B0%D1%81%D0%98%D0%BB%D1%8C%D0%B8%D0%BD">youtube</a>
 </p>
 
 Язык программирования Dart - темная лошадка от Google. 
